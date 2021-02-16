@@ -1,0 +1,6 @@
+p, admin, /*, *
+p, cashier, /cashbox/*, (GET)|(POST)
+p, cashier, /customer/*, *
+p, waiter, /table/*, GET
+p, waiter, /customer/*, GET
+p, chef, /monitor/*, GET
